@@ -3,4 +3,5 @@
 - Optimized the deployment process by implementing cutting-edge techniques
 - Executed the project with a strong passion for machine learning
 - Enhanced the performance of the deployed model using advanced algorithms and text vectorization techniques
+![Uploading image.png…]()
 
